@@ -12,8 +12,8 @@ Dataset contains RGB (256x256) images in tiff format, around 3500 training image
 U-Net model has 10 Encoder layers and 10 decoder layers (up-sampling to generate image of mask) and some 1x1 conv layers to reduce filter space and give final 224x224 result image. Model was quick to learn and within 20-25 epocs it was genrating good results.
 
 #### Results
-
+As model should
 ![good results](/images/result2.png)
 
-
-![wow results](/images/result4.png)
+Model trying to narrow it down
+![wow results](/images/result3.png)
